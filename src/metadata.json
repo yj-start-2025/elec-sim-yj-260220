@@ -1,0 +1,5 @@
+{
+  "name": "전기기능사 회로 시뮬레이터",
+  "description": "직렬/병렬 회로의 합성저항과 전류 흐름을 시각적으로 학습하는 시뮬레이터입니다.",
+  "requestFramePermissions": []
+}
